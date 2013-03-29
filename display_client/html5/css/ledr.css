@@ -1,0 +1,5 @@
+body { background-color: #222}
+
+.boxcontainer {margin: 0 auto;text-align: left; }
+.box { height:100px; background-color: blue;  float:left;}
+.led {height:100%; background:transparent url(../img/img.png) no-repeat;background-size:100% 100%;}
